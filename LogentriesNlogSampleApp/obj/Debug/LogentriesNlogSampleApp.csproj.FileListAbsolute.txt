@@ -1,0 +1,3 @@
+C:\Users\SirDerp\Desktop\LogentriesNlog4.2.3 - working\LogentriesNlogSampleApp\bin\Debug\LogentriesNlogSampleApp.exe.config
+C:\Users\SirDerp\Desktop\LogentriesNlog4.2.3 - working\LogentriesNlogSampleApp\obj\Debug\LogentriesNlogSampleApp.exe
+C:\Users\SirDerp\Desktop\LogentriesNlog4.2.3 - working\LogentriesNlogSampleApp\obj\Debug\LogentriesNlogSampleApp.pdb
